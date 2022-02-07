@@ -19,5 +19,31 @@ function navpharma() {
 document.querySelector("#accountsymbol").addEventListener("click", navlogin);
 
 function navlogin() {
-  window.location.href = "login.html";
+  window.location.href = "cart.html";
+}
+
+document.querySelector("#cartsymbol").addEventListener("click", navcart);
+
+function navcart() {
+  window.location.href = "cart.html";
+}
+
+document.querySelector("#labtest").addEventListener("click", navtocreate);
+
+function navtocreate() {
+  window.location.href = "lab test.html";
+}
+
+document.querySelector("#covid").addEventListener("click", navtocovidpos);
+
+function navtocovidpos() {
+  window.location.href = "corona.html";
+}
+
+var addedToCart = JSON.parse(localStorage.getItem("cartItemsadded")) || [];
+
+cartCountupdate(addedToCart);
+
+function cartCountupdate(addedToCart) {
+  document.querySelector("#cartcount").textContent = addedToCart.length;
 }

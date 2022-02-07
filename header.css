@@ -1,34 +1,64 @@
 #header {
   width: 79%;
+  margin: auto;
+  height: 110px;
   background-color: white;
-  display: flex;
+  display: grid;
   position: fixed;
-  padding-bottom: 15px;
+  font-size: smaller;
+  grid-gap: 36px;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+  grid-template-columns: repeat(28, 1fr);
 }
-#header > div {
+#apolloimage {
+  grid-area: 1/1/2/15;
+  width: 80px;
+  padding: 30px 0px 10px 20px;
   cursor: pointer;
-  margin-left: 25px;
-  font-size: 13px;
-  margin-top: 12px;
 }
-#header > DIV > h4 {
+.h4 {
   color: #02475b;
-  border-bottom: solid #02475b 1px;
-  padding-bottom: 5px;
+  border-bottom: 1px solid #01475b;
   margin-bottom: 10px;
+  font-size: 13px;
+  font-weight: 580;
+  line-height: normal;
 }
-#header > DIV > p {
+.p {
+  color: #7a9ea9;
+  font-size: smaller;
   margin-top: 0px;
-  margin-bottom: 2px;
-  color: #67919d;
+  margin-bottom: 5px;
 }
+
+#doc {
+  padding-top: 15px;
+  grid-area: 1/15/2/16;
+  cursor: pointer;
+}
+#pharma {
+  padding-top: 15px;
+  grid-area: 1/16/2/19;
+  cursor: pointer;
+}
+#labtest {
+  padding-top: 15px;
+  grid-area: 1/19/2/22;
+  cursor: pointer;
+}
+#covid {
+  padding-top: 15px;
+  grid-area: 1/22/2/25;
+  cursor: pointer;
+}
+
 #cartsymbol {
-  padding: 33px 0px 31px 16px;
-  margin-right: 0px;
+  padding-top: 50px;
+  grid-area: 1/25/2/26;
   cursor: pointer;
 }
 #cartcount {
+  grid-area: 1/25/2/26;
   color: white;
   width: 14px;
   height: 14px;
@@ -39,20 +69,18 @@
   line-height: 14px;
   border-radius: 50%;
   background-color: #ff748e;
-  margin-top: 33px;
-  padding-left: 0px;
+  margin-top: 43px;
+  margin-left: 13px;
+  cursor: pointer;
 }
 #accountsymbol {
-  cursor: pointer;
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
+  padding-top: 30px;
+  grid-area: 1/26/2/28;
   background-color: #02475b;
-  margin: 22px 15px 15px 15px;
-}
-#apolloimage {
+  color: #fff;
+  width: 25px;
+  margin-top: 40px;
+  padding: 15px 15px;
+  border-radius: 50%;
   cursor: pointer;
-  width: 80px;
-  height: 60px;
-  margin: 25px 43% 15px 25px;
 }
