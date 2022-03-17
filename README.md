@@ -31,8 +31,10 @@
 <h3>Contributers</h3>
 
 <a href = "https://github.com/SakethReddy1111"><img src = "https://avatars.githubusercontent.com/u/95850230?v=4" width=100px/></a>
-<a href = "https://github.com/Uditkishore"><img src = "https://avatars.githubusercontent.com/u/95956949?v=4"  width=100px/></a>
-<a href = "https://github.com/Fatima2400"><img src = "https://avatars.githubusercontent.com/u/96168561?v=4"  width=100px/></a>
-<a href = "https://github.com/hanu329"><img src = "https://avatars.githubusercontent.com/u/95962474?v=4"  width=100px/></a>
+<a href = "https://github.com/Gourav1221"><img src = "https://avatars.githubusercontent.com/u/90262724?v=4"  width=100px/></a>
+<a href = "https://github.com/Shubhamfw13"><img src = "https://avatars.githubusercontent.com/u/96097766?v=4"  width=100px/></a>
+<a href = "https://github.com/tanishaa17"><img src = "https://avatars.githubusercontent.com/u/96083845?v=4"  width=100px/></a>
+<a href = "https://github.com/saikiran11461"><img src = "https://avatars.githubusercontent.com/u/70562454?v=4"  width=100px/></a>
+<a href = "https://github.com/saurabhchanchal"><img src = "https://avatars.githubusercontent.com/u/96104633?v=4"  width=100px/></a>
 
 
