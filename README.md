@@ -9,7 +9,7 @@
 
 <h3>what is this for ? </h3>
 
-<p>Apollo 24|7 is an integrated platform that stores all health records being generated physically or digitally across the Apollo ecosystem for each consumer on the app. Your past consultations, doctor's note, your offline store purchase bills – all will be automatically available on the app.</p>
+<p>Apollo 24|7 is an integrated platform that stores all health records being generated physically or digitally across the Apollo ecosystem for each consumer on the app. Your past consultation, doctor's note, your offline store purchase bills – all will be automatically available on the app.</p>
 
 <h3>Description</h3>
 
