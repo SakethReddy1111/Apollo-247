@@ -3,7 +3,7 @@
 <a href = "https://quirky-neumann-18c833.netlify.app/"/><img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6QK0aPcfckZTZxdIXQGUPzC86EslO4dEFbA&usqp=CAU" /> </a>
 
 
-<h3>What is Apollo 247 ?</h3>
+<h3>What is Apollo-247 ?</h3>
 
 <p>Apollo 24|7 is a single online platform where you have access to a wide range of services such as online pharmacy, online doctor consultations, and diagnostic lab tests at home.</p>
 
